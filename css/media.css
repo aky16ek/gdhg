@@ -1,0 +1,259 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+    .line {
+        left: 120px;
+        top: 5467px;
+    }
+}
+@media (max-width: 1200px) {
+    .hero-img {
+        width: 90%;
+    }
+    .new-img {
+        width: 90%;
+    }
+    .future-title {
+        width: 90%;
+    }
+    .sun-img {
+        padding: 020px;
+    }
+    .line {
+        width: 954px;
+    }
+    .hero-title h1 {
+        font-size: 40px;
+    }
+    @media (max-width: 1024px) {
+        .header-icon {
+            display: none;
+        }
+        .hero-img img {
+            width: 90%;
+        }
+        .new-img img {
+            width: 90%;
+        }
+        .sun-img img {
+            width: 90%;
+        }
+        .sun h1 {
+            font-size: 30px;
+        }
+        .sun p {
+            padding: 15px 39px;
+        }
+        .trends {
+            flex-wrap: wrap;
+            gap: 100px;
+        }
+        .star-img img {
+            width: 90%;
+        }
+        .line {
+            left: 44px;
+            top: 6510px;
+        }
+        .footer {
+        }
+        .futures {
+            flex-wrap: wrap;
+            gap: 100px;
+        }
+    }
+}
+@media (max-width: 992px) {
+    #footer {
+        height: 533px;
+    }
+    .star-img-bac {
+        left: 215px;
+        top: 382px;
+    }
+    .star-icons .icon-left {
+        left: 231px;
+        top: 394px;
+    }
+    .star-icons .icon-right {
+        left: 298px;
+        top: 391px;
+    }
+    .line {
+        width: 90%;
+    }
+    .footer {
+        width: 900px;
+    }
+}
+@media (max-width: 768px) {
+    .footer-nav {
+        display: none;
+    }
+    .footer-shop {
+        display: none;
+    }
+    .footer-art {
+        display: none;
+    }
+    .footer-title {
+        align-items: flex-start;
+    }
+    .footer {
+        width: 451px;
+    }
+}
+@media (max-width: 576px) {
+    .hero {
+        flex-direction: column;
+    }
+    .new {
+        flex-direction: column;
+    }
+    .future-title {
+        flex-direction: column;
+        text-align: center;
+    }
+    .sunny {
+        flex-direction: column;
+    }
+    .sun p {
+        padding: 15px 20px;
+    }
+    .star {
+        flex-direction: column;
+    }
+    .line {
+        left: 44px;
+        top: 9933px;
+    }
+}
+@media (max-width: 451px) {
+    .line {
+        left: 19px;
+    }
+    .footer {
+        width: 421px;
+    }
+    .line {
+        top: 9762px;
+    }
+}
+@media (max-width: 400px) {
+    .btn .btn-left {
+        font-size: 12px;
+        width: 100px;
+        height: 40px;
+    }
+    .btn .btn-right {
+        font-size: 12px;
+        width: 100px;
+        height: 40px;
+    }
+    .hero-title h1 {
+        font-size: 30px;
+    }
+    .hero-title p {
+        font-size: 20px;
+    }
+    .hero-input input {
+        width: 170px;
+        height: 33px;
+    }
+    .hero-btn button {
+        font-size: 12px;
+        width: 100px;
+        height: 40px;
+    }
+    .new-title h1 {
+        font-size: 25px;
+    }
+    .new-title p {
+        font-size: 15px;
+    }
+    .new-btn button {
+        font-size: 12px;
+        width: 100px;
+        height: 40px;
+    }
+    .future-title h1 {
+        font-size: 25px;
+    }
+    .sun h1 {
+        font-size: 25px;
+    }
+    .sun p {
+        font-size: 13px;
+    }
+    .btn button {
+        font-size: 12px;
+        width: 100px;
+        height: 40px;
+    }
+    .stars h1 {
+        font-size: 25px;
+    }
+    .stars p {
+        font-size: 15px;
+    }
+    .footer {
+        width: 90%;
+    }
+    .line {
+        top: 9324px;
+    }
+    .lines {
+        font-size: 20px;
+    }
+    .star-icons .icon-left {
+        font-size: 20px;
+        width: 29px;
+        height: 28px;
+        top: 386px;
+    }
+}
+@media (max-width: 320px) {
+    .new-title h1 {
+        font-size: 20px;
+    }
+    .new-title p {
+        font-size: 12px;
+    }
+    .future-title h1 {
+        font-size: 22px;
+    }
+    .sun h1 {
+        font-size: 22px;
+    }
+    .sun p {
+        font-size: 10px;
+    }
+    .lines {
+        font-size: 13px;
+    }
+    .line {
+        top: 9094px;
+    }
+    .povs {
+        font-size: 16px;
+    }
+    .pov {
+        font-size: 15px;
+    }
+    .star-img-bac {
+        left: 127px;
+        top: 273px;
+    }
+    .star-icons .icon-left {
+        left: 152px;
+        top: 291px;
+    }
+    .star-icons .icon-right {
+        top: 290px;
+        left: 214px;
+    }
+    .line {
+        top: 8968px;
+    }
+}
